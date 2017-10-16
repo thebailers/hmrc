@@ -6,5 +6,4 @@ The following are a list of changes I would have liked to make, given more time:
 * Use of high quality assets - suitable for screens/devices with high pixel density
 * Look into adopting a CSS methodology, namely BEM or SMACSS
 * Accurate colour sampling
-* Attention to detail with regards to layout measurement and asset sizing
-
+* Attention to detail with regards to layout measurement, alignment and asset sizing
